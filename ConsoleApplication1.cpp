@@ -5,6 +5,7 @@
 
 int main()
 {
+    int g = 10;
     std::cout << "Hello 222World!\n";
 }
 
